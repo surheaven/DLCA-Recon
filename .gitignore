@@ -1,0 +1,17 @@
+__pycache__/
+build/
+Data/
+*.zip
+*.pkl
+*.h5
+neutral_smpl_with_cocoplus_reg.txt
+*.avi
+*.npz
+*.jpg
+*.png
+*.obj
+*.ply
+.vscode/
+*.so
+*.egg-info/
+*.egg
